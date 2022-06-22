@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bedec64053ef210498a949202a464676
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet_Emitter: {instanceID: 0}
+  - Bullet: {instanceID: 0}
+  - shootButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

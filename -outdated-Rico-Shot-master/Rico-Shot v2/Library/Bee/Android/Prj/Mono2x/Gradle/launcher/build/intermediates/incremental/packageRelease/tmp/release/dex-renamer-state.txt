@@ -1,0 +1,4 @@
+#Mon Jun 13 09:26:24 SGT 2022
+base.0=D\:\\Work\\Unity\\Work\\-outdated-Rico-Shot-master\\Rico-Shot v2\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
