@@ -1,10 +1,19 @@
-# Portfolio
 ---
-## Sample Projects
+# Portfolio
+
+## Game Development Samples
 
 # RicoShot
-**Sample text**
+A dodgeball game wherein the player shoots the ball inside of a rotating arena in an attempt to get a high score, it adds a creative spin to the classic dodgeball game. <br />
+
+Prwogramming language/s used: C# <br />
+Tools: Unity, Blender <br />
+Roles: Programmer, 3D Artist <br />
 
 
 # Augmented Reality Tower Defense
-**Sample text
+A tower defense game which lets the player set his/her towers to create a deadly path to prevent the “enemies” from reaching their goal. It showcases rotational tracking, marker-less surface scanning, enemy AI, device & user interactivity.
+
+Prwogramming language/s used: C# <br />
+Tools: Unity, Blender <br />
+Roles: Programmer, 3D Artist <br />
