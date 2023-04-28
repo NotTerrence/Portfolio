@@ -24,7 +24,7 @@ Roles: Developer, 3D Artist <br />
 
 ![alt text](https://i.imgur.com/5geAUNF.png)
 
-[RicoShot Preview](https://youtu.be/6sd4kL-vtr8)
+[RicoShot Preview](https://youtu.be/vk_PQryURd0)
 
 ## Augmented Reality Tower Defense
 A tower defense game which lets the player set his/her towers to create a deadly path to prevent the “enemies” from reaching their goal. It showcases rotational tracking, marker-less surface scanning, enemy AI, device & user interactivity.
