@@ -15,6 +15,8 @@ Tech stack: Unity (C#) <br />
 Tools: Blender <br />
 Roles: Developer, 3D Artist <br />
 
+[Virtual Reality Viewer Demo](https://youtu.be/S8ELnEzHkyQ)
+
 ## RicoShot
 A dodgeball game wherein the player shoots the ball inside of a rotating arena in an attempt to get a high score, it adds a creative spin to the classic dodgeball game. <br />
 
