@@ -22,7 +22,7 @@ Roles: Developer, Analyst <br />
 ![](https://github.com/NotTerrence/Portfolio/blob/main/.resources/G-Cakes%20Homepage.gif)
 
 ## RicoShot!
-A dodgeball game wherein the player shoots balls inside of a rotating arena while dodging various objects in an attempt to get a high score, it adds a creative spin to the classic dodgeball game. <br />
+Rico-Shot is a retrospect-themed mobile game with strong resemblance to dodgeball accompanied by extreme, 3 dimensional arenas, havoc-prompting power-ups and big bouncy balls that ricochets which the player must dodge. <br />
 
 Tech stack: Unity (C#) <br />
 Tools: Blender <br />
