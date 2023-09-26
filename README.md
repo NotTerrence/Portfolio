@@ -17,21 +17,29 @@ Tech stack: Unity (C#) <br />
 Tools: Blender <br />
 Roles: Developer, 3D Artist <br />
 
+![Main Menu Environment](https://imgur.com/YiNDibj)
+
+![Classroom Environment](https://imgur.com/PEb1kjq)
+
+![Household Environment](https://imgur.com/WMWD3SK)
+
+![Office Environment](https://imgur.com/el2FMui)
+
 [Virtual Reality Viewer Demo](https://youtu.be/S8ELnEzHkyQ)
 
 ## RicoShot!
-A dodgeball game wherein the player shoots the ball inside of a rotating arena in an attempt to get a high score, it adds a creative spin to the classic dodgeball game. <br />
+A dodgeball game wherein the player shoots balls inside of a rotating arena while dodging various objects in an attempt to get a high score, it adds a creative spin to the classic dodgeball game. <br />
 
 Tech stack: Unity (C#) <br />
 Tools: Blender <br />
 Roles: Developer, 3D Artist <br />
 
-![alt text](https://i.imgur.com/5geAUNF.png)
+![RicoShot!](https://i.imgur.com/5geAUNF.png)
 
 [RicoShot! Preview](https://youtu.be/vk_PQryURd0)
 
 ## Augmented Reality Tower Defense
-A tower defense game which lets the player set his/her towers to create a deadly path to prevent the “enemies” from reaching their goal. It showcases rotational tracking, marker-less surface scanning, enemy AI, device & user interactivity.
+A tower defense game that lets the player set his/her towers to create a deadly path to prevent the “enemies” from reaching their goal. It showcases rotational tracking, marker-less surface scanning, enemy AI, and device & user interactivity.
 
 Tech stack: C# <br />
 Tools: Unity, Blender <br />
