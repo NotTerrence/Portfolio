@@ -17,13 +17,13 @@ Tech stack: Unity (C#) <br />
 Tools: Blender <br />
 Roles: Developer, 3D Artist <br />
 
-![Main Menu Environment](https://imgur.com/YiNDibj)
+![Main Menu Environment](https://i.imgur.com/YiNDibj.png)
 
-![Classroom Environment](https://imgur.com/PEb1kjq)
+![Classroom Environment](https://i.imgur.com/PEb1kjq.png)
 
-![Household Environment](https://imgur.com/WMWD3SK)
+![Household Environment](https://i.imgur.com/WMWD3SK.png)
 
-![Office Environment](https://imgur.com/el2FMui)
+![Office Environment](https://i.imgur.com/el2FMui.png)
 
 [Virtual Reality Viewer Demo](https://youtu.be/S8ELnEzHkyQ)
 
