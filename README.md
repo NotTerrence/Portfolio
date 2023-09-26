@@ -8,7 +8,7 @@ Tech stack: ReactJS, Contentful CMS <br />
 Tools: Jira, Postman, Visual Studio Code, Figma, Vercel. Jest, Playwright Test for VSCode <br />
 Roles: Developer, Analyst <br />
 
-![]()
+![](https://github.com/NotTerrence/Portfolio/blob/main/.resources/G-Cakes%20Homepage.gif)
 
 ## Virtual Reality Viewer
 A virtual reality viewer that featured 3 environments
