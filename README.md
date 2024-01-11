@@ -16,7 +16,7 @@ Roles: Developer, 3D Artist <br />
 This e-commerce website was created for a client who runs a business called Gcakes. Gcakes specializes in selling customized cake designs and complementary party goods, such as cakes, cookies, and cupcakes. The main purpose of the application is to allow customers to place orders online without having to communicate with a salesperson for product information.
 
 Tech stack: ReactJS, Contentful CMS <br />
-Tools: Jira, Postman, Visual Studio Code, Figma, Vercel. Jest, Playwright Test for VSCode <br />
+Tools: Jira, Postman, Visual Studio Code, Figma, Vercel, Jest, Playwright Test for VSCode <br />
 Roles: Developer, Analyst <br />
 
 ![](https://github.com/NotTerrence/Portfolio/blob/main/.resources/G-Cakes%20Homepage.gif)
